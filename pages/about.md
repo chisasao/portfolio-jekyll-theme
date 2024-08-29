@@ -4,6 +4,11 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+About Me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+My name is Chisa Ono, and I am currently living in London. I am passionate about empowering people through fashion and leveraging data to drive purchasing decisions. With one year of experience as a Merchandiser and thirteen years in Public Relations and Marketing Communication in Japan, I have developed a deep understanding of Japanese customers' needs and market trends. This background enables me to use data effectively to influence product planning and boost sales revenue.
+
+In response to the need for data-driven decision-making in marketing and merchandising, I completed a Business Data Analytics course. My Capstone project focused on discovering relationships between items purchased together and applying these insights to enhance product development, staff training, and marketing campaigns.
+
+In my personal time, I enjoy exploring the streets of London, capturing its beautiful architecture and vibrant art scenes with my camera.
+
