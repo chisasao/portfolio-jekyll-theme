@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Project One'
+title: 'About Me'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+My name is Chisa Ono, and I am currently living in London. I am passionate about empowering people through fashion and leveraging data to drive purchasing decisions. With one year of experience as a Merchandiser and thirteen years in Public Relations and Marketing Communication in Japan, I have developed a deep understanding of Japanese customers' needs and market trends. This background enables me to use data effectively to influence product planning and boost sales revenue.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+In response to the need for data-driven decision-making in marketing and merchandising, I completed a Business Data Analytics course. My Capstone project focused on discovering relationships between items purchased together and applying these insights to enhance product development, staff training, and marketing campaigns.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+In my personal time, I enjoy exploring the streets of London, capturing its beautiful architecture and vibrant art scenes with my camera.
